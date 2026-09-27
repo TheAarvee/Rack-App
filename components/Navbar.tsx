@@ -13,7 +13,7 @@ interface NavbarProps {
 
 export default function Navbar({
   brandName = "Rack",
-  downloadHref = "#download",
+  downloadHref = "https://github.com/TheAarvee/Rack-App/releases/download/v1.0.0/RackSetup-v1.0.exe",
   links = [
     { label: "Home", href: "/" },
     { label: "Demo", href: "#demo" },

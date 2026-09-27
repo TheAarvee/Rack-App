@@ -9,7 +9,7 @@ interface CTASectionProps {
 }
 
 export default function CTASection({
-  downloadHref = "#download",
+  downloadHref = "https://github.com/TheAarvee/Rack-App/releases/download/v1.0.0/RackSetup-v1.0.exe",
   githubHref = "https://github.com/TheAarvee/Rack-App",
 }: CTASectionProps) {
   const containerRef = useRef<HTMLDivElement>(null);
