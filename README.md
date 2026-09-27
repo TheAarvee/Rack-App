@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rack
 
-## Getting Started
+###**Stash Anything. Anywhere. Grab Anytime.**
 
-First, run the development server:
+A digital shelf for your Windows desktop. Rack acts as an invisible staging ground for your active workflow, allowing you to quickly stash files, web links, and raw text snippets without breaking your focus or cluttering your desktop.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<div align="center">
+<video src="https://github.com/user-attachments/assets/d1f48a57-92c3-4c08-8754-e48f96a8f2de" autoplay muted loop playsinline width="100%"></video>
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Invisible UI:** Stays completely out of sight in your system tray until you need it.
+* **Universal Drop-Zone:** Drag and drop heavy files, URLs straight from the browser, or raw text snippets.
+* **Fluid Motion:** Powered by custom 350ms quartic ease-out animations. It doesn't just open; it glides.
+* **Native Performance:** Built with native C# and WinUI 3. Zero background CPU drain, zero Electron bloat.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Installation
 
-## Learn More
+1. Download the latest `RackSetup-v1.0.exe` from the [Releases page](https://github.com/your-username/rack-app/releases/latest).
+2. Run the installer. It will automatically configure Rack to start with Windows and launch the app immediately.
+3. *Note: Because this is an independent release, Windows SmartScreen may show a blue protection warning. Click **More info** -> **Run anyway**.*
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Mouse Trigger:** Flick your cursor to the extreme right edge of your monitor. Rack will smoothly slide out. Move your cursor away, and it tucks itself back in.
+* **Stash & Retrieve:** Drag items into the drawer to stash them. When you need them later, open Rack and drag them out into any folder, app, or browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+* **Framework:** WinUI 3 / Windows App SDK
+* **Language:** C# (.NET 8 Self-Contained Build)
+* **Installer:** Inno Setup
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Cooked by [Aarvee](https://aarvee.is-a.dev)
