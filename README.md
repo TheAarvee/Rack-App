@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Rack logo" src="https://github.com/user-attachments/assets/d160724a-3d3e-4ea6-99a5-1ffce8d5d4d8" style="max-width: 100%; height: auto;" />
+  <img width="400" alt="logo" src="https://github.com/user-attachments/assets/d160724a-3d3e-4ea6-99a5-1ffce8d5d4d8" />
 </div>
 
 ### **Stash Anything. Anywhere. Grab Anytime.**
