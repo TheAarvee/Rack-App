@@ -1,6 +1,8 @@
-# Rack
+<div align="center">
+  <img width="400" alt="logo" src="https://github.com/user-attachments/assets/d160724a-3d3e-4ea6-99a5-1ffce8d5d4d8" />
+</div>
 
-###**Stash Anything. Anywhere. Grab Anytime.**
+### **Stash Anything. Anywhere. Grab Anytime.**
 
 A digital shelf for your Windows desktop. Rack acts as an invisible staging ground for your active workflow, allowing you to quickly stash files, web links, and raw text snippets without breaking your focus or cluttering your desktop.
 
@@ -34,4 +36,4 @@ A digital shelf for your Windows desktop. Rack acts as an invisible staging grou
 
 ---
 
-Cooked by [Aarvee](https://aarvee.is-a.dev)
+Cooked by [Aarvee](https://aarvee.is-a.dev)🐦‍🔥
