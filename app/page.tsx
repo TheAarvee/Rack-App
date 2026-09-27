@@ -58,7 +58,7 @@ export default function Home() {
         {/* Hero Subtitle / Description */}
         <div className="text-center max-w-xl mx-auto px-4 mt-2 sm:mt-4">
           <p className="text-neutral-600 text-sm sm:text-base leading-relaxed font-normal">
-            An invisible drop-zone for Windows. Swipe to the edge of your screen to instantly stash and retrieve anything without breaking your focus.
+            An invisible drop-zone for Windows. <br />Swipe & Stash.
           </p>
         </div>
 
